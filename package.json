@@ -14,7 +14,15 @@
   "author": "Jose Manuel Montaño <joss92821@hotmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mooenz/npm-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mooenz/npm-random-messages/issues"
+  },
+  "homepage": "https://github.com/Mooenz/npm-random-messages#readme"
 }
